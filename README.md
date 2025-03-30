@@ -1,2 +1,2 @@
-# haskell_construct
-construct:standard programs written in haskell
+# haskell_curricula
+curricula:haskell programming
