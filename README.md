@@ -1,2 +1,2 @@
-# haskell_curricula
-curricula:haskell programming
+# haskell_sandbox
+sandbox:Haskell Programming and Turnkey Ecosystem
